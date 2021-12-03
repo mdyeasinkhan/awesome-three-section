@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,700;1,400;1,500&display=swap');
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #E5E5E5;;
+}
+.container{
+    width: 1280px;
+    margin: 0 auto;
+    vertical-align: middle;
+}
+.header{
+    padding: 20px 0;
+    background-color: #1C3180;
+    color: white;
+    text-align: center;
+   
+    
+}
+.header h1{
+    font-size: 64px;
+}
+
+.main_body{
+    text-align: center;
+    background: #ffffff;
+    padding: 20px 10px;
+
+    
+}
+.main_body h2{
+    text-align: left;
+    margin-left: 160px;
+    font-size: 48px;
+}
+.main_body img{
+    width: 968px;
+    height: 439px;
+}
+
+.main_body p{
+    font-size: 24px;
+    padding: 0 145px;
+    text-align: left;
+}
+span{
+    color: #FE630E;
+}
+footer{
+    background: #1C3180;
+    padding: 50px 145px;
+
+}
+footer h2{
+    color:  #FE630E;
+
+}
+
+footer p{
+    color:  #ffffff;
+   padding-right: 340px;
+    
+
+}
+
+.btn1{
+    background: #FE630E;
+    color: #ffffff;
+    padding: 10px 10px;
+    text-decoration: none;
+
+}
+
+.btn2{
+    background: #ffffff;
+    color: #1C3180;
+    ;
+    padding: 10px 10px;
+    text-decoration: none;
+    margin-left: 5px;
+
+}
+.buttn{
+    margin-top: 40px;
+}
